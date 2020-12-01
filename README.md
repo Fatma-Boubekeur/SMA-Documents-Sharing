@@ -19,3 +19,6 @@ Rym reçoit le document.
 
 Sarah envoie le document "Jade documentation.pdf" aux utilisateurs de la communauté SMA (Lina). 
 <img  src="ScreenShots/Boite d'envoi SMA (Sarah).PNG">
+
+Lina reçoit le document. 
+<img  src="ScreenShots/Boite réception SMA (Lina).PNG">
