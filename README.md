@@ -1,5 +1,5 @@
 # SMA-Documents-Sharing
-Réalisation d'un Système Multi-Agents (SMA) pour le partage des documents. 
+Réalisation d'un Système Multi-Agents (SMA) pour le partage des documents en utilisant la plateforme JADE.
 
 Les utilisateurs doivent d'abord s'inscrire au système afin de pouvoir envoyer/recevoir tout type de ressources documentaires. 
 <img  src="ScreenShots/Home.PNG">
