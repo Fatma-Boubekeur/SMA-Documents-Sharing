@@ -11,5 +11,8 @@ Fatma et Rym font partie de la communauté IA.
 
 Sarah et Lina font partie de la communauté SMA. 
 
-Fatma envoie le document "machine_learning_with_python_tutorial.pdf" aux utilisateurs de la communauté IA. 
+Fatma envoie le document "machine_learning_with_python_tutorial.pdf" aux utilisateurs de la communauté . 
 <img  src="ScreenShots/Boite d'envoi IA (Fatma) .PNG">
+
+Rym reçoit le document. 
+<img  src="ScreenShots/Boite réception IA (rym) .PNG">
