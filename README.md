@@ -16,3 +16,6 @@ Fatma envoie le document "machine_learning_with_python_tutorial.pdf" aux utilisa
 
 Rym reçoit le document. 
 <img  src="ScreenShots/Boite réception IA (rym) .PNG">
+
+Sarah envoie le document "Jade documentation.pdf" aux utilisateurs de la communauté SMA (Lina). 
+<img  src="ScreenShots/Boite d'envoi SMA (Sarah).PNG">
