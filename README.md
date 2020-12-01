@@ -22,3 +22,6 @@ Sarah envoie le document "Jade documentation.pdf" aux utilisateurs de la communa
 
 Lina reçoit le document. 
 <img  src="ScreenShots/Boite réception SMA (Lina).PNG">
+
+Visualisation des messages échangés entre les différents agents via l'agent Sniffer de Jade. 
+<img  src="ScreenShots/Massages échangés (Sniffer).PNG" width=700>
