@@ -6,7 +6,9 @@ Les utilisateurs doivent d'abord s'inscrire au système afin de pouvoir envoyer/
 
 Chaque utilisateur représenté par un agent autonome peut partager des documents avec les autres utilisateurs qui ont le même centre d'intérêt que lui. (IA ou SMA).
 Comme exemple nous allons créer 4 agents : Fatma, Rym, Sarah et Lina. 
+
 Fatma et Rym font partie de la communauté IA. 
+
 Sarah et Lina font partie de la communauté SMA. 
 
 Fatma envoie le document "machine_learning_with_python_tutorial.pdf" aux utilisateurs de la communauté IA. 
